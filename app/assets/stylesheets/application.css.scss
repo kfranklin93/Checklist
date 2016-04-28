@@ -31,7 +31,7 @@
 body {
 	font-family: 'Boogaloo', 'Merriweather', serif;
 	color: white;
-	background-image: url("http://www.modwedding.com/wp-content/uploads/2014/05/wedding-reception-ideas-3-05192014.jpeg");
+	background-image: url("http://www.siouxempireweddingnetwork.com/wp-content/uploads/2010/10/Rehder-Wedding-7_30_10-034.jpg");
   background-repeat: repeat-y;
 
 }
@@ -71,8 +71,9 @@ a {
 /* Item styles */
 
 .item {
-	border-bottom: 1px solid #e7e7e7;
+	border-bottom: 1px solid white;
 	padding-bottom: 1.5em;
+	color: white;
 	.item-title {
 		font-family: 'Boogaloo', sans-serif;
 		color: white;
@@ -87,14 +88,11 @@ a {
 		font-size: 0.85em;
 		letter-spacing: 1.25;
 	}
-	.item-sub-title {
-	color: darken white;
-		margin-bottom: 0;
-	}
 }
 
 .item:nth-child(n+1) {
 	padding-top: 1.5em;
+	color: white;
 }
 .jumbotron {
 	opacity: .7;
@@ -107,4 +105,7 @@ a {
 .showitem{
 		color: white;
 	opacity: .7;
+}
+.btn-primary{
+	color: black;
 }
