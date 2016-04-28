@@ -32,8 +32,9 @@ body {
 	font-family: 'Boogaloo', 'Merriweather', serif;
 	color: white;
 	background-image: url("http://www.siouxempireweddingnetwork.com/wp-content/uploads/2010/10/Rehder-Wedding-7_30_10-034.jpg");
-  background-repeat: repeat-y;
-
+  background-repeat:no-repeat;
+background-size:contain;
+background-position:center;
 }
 
 a {
