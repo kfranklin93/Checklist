@@ -7,8 +7,7 @@ Technologies Used:
 * Rails
 * Bootstrap, SASS
 * Postgresql
-* Devise- kind of
+* Devise- authurization gem
 * Heroku
-
 * Trello
 * A white board wall in O'Connor
