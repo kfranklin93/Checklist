@@ -3,15 +3,12 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-
-* Added addtional users and Models
-
+Technologies Used:
+* Rails
 * Bootstrap, SASS
-
 * Postgresql
-
-
+* Devise- kind of
 * Heroku
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Trello
+* A white board wall in O'Connor
