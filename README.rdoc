@@ -4,12 +4,13 @@ This README would normally document whatever steps are necessary to get the
 application up and running.
 
 
-* Added addtional users and Models
+* Added Users and Models
 
 * Bootstrap, SASS
 
 * Postgresql
 
+*Devise- kind of
 
 * Heroku
 
